@@ -12,3 +12,4 @@ year : 2015
 markdown : kramdown
 exclude :
   - node_modules
+baseurl : webbrandingdiva.github.io
