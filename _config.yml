@@ -2,7 +2,7 @@ name : Web Branding Diva
 brand : Web Branding Diva
 description : Web Branding Diva site
 keyword : 
-url : http://redsirendesign.github.io/webbrandingdiva.github.io/
+url : http://redsirendesign.github.io/webbrandingdiva/
 email : masha@redsirendesign.com
 twitter : redsirendesign
 github : redsirendesign
@@ -12,4 +12,3 @@ year : 2015
 markdown : kramdown
 exclude :
   - node_modules
-baseurl : webbrandingdiva.github.io
