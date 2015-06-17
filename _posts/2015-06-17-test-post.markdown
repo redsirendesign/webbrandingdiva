@@ -1,8 +1,8 @@
 ---
 title: First Test Post
-layout: post
+layout: default
 ---
-<div calss="row">
+<div class="row">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
 tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendreri\
 t quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, int\
