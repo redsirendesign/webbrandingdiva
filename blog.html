@@ -6,5 +6,6 @@ test
 {% endfor %}
 
   {% for post in site.posts limit: 5 %}
+  edit
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
